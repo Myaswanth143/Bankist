@@ -7,7 +7,7 @@
 /////////////////////////////////////////////////
 // Data
 const account1 = {
-  owner: 'Yaswanth Merapureddy'
+  owner: 'Jonas Schmedtmann',
   movements: [200, 450, -400, 3000, -650, -130, 70, 1300],
   interestRate: 1.2, // %
   pin: 1111,
@@ -242,5 +242,4 @@ btnSort.addEventListener('click', function (e) {
 // LECTURES
 
 const movements = [200, 450, -400, 3000, -650, -130, 70, 1300];
-
 
